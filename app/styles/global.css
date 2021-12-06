@@ -214,3 +214,7 @@ input:where([type="search"]) {
   margin-top: 0;
   margin-bottom: 0;
 }
+
+.module--spacing--small {
+  height: 20px;
+}
